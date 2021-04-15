@@ -37,11 +37,21 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jackz\Documents\cs204\JenkinsCalculator" />
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\test\java" />
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CalculatorTestThorough">
+    <configuration name="CalculatorTestThorough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTestThorough" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest.divideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JenkinsCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -54,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTestThorough" />
         <item itemvalue="JUnit.CalculatorTest.divideTest" />
       </list>
     </recent_temporary>
@@ -80,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
-      <workItem from="1618453564137" duration="878000" />
+      <workItem from="1618453564137" duration="1680000" />
     </task>
     <servers />
   </component>
@@ -96,13 +107,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="281" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618454055374" />
+    <state width="943" height="279" key="GridCell.Tab.0.bottom" timestamp="1618455372209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618455372209" />
+    <state width="943" height="279" key="GridCell.Tab.0.center" timestamp="1618455372208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618455372208" />
+    <state width="943" height="279" key="GridCell.Tab.0.left" timestamp="1618455372208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618455372208" />
+    <state width="943" height="279" key="GridCell.Tab.0.right" timestamp="1618455372209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618455372209" />
     <state x="2" y="171" key="SettingsEditor" timestamp="1618454449559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618454449559" />
-    <state x="310" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618454608246">
+    <state x="93" y="262" key="Vcs.Push.Dialog.v2" timestamp="1618455446999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="310" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618454608246" />
+    <state x="93" y="262" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618455446999" />
+    <state x="310" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618455431606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="310" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618455431606" />
   </component>
 </project>
